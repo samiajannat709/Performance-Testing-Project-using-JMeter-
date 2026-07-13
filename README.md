@@ -88,10 +88,6 @@ Performance-Testing-Project/
 
 (Add Screenshot Here)
 
-### Aggregate Report
-
-(Add Screenshot Here)
-
 ### HTML Dashboard Report
 
 (Add Screenshot Here)
